@@ -13,13 +13,13 @@
     "test": "istanbul cover _mocha -- --recursive"
   },
   "dependencies": {
-    "mongoose": "^4.11.3",
-    "q": "^1.5.0",
+    "mongoose": "latest",
+    "q": "latest",
     "telebot": "latest"
   },
   "devDependencies": {
-    "chai": "^4.1.0",
-    "istanbul": "^0.4.5",
-    "mocha": "^3.4.2"
+    "chai": "latest",
+    "istanbul": "latest",
+    "mocha": "latest"
   }
 }
